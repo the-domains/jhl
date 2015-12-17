@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JHL]]></title>
         <description><![CDATA[JHL]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jhl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 20:51:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 20:53:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jhl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/jhl/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">8a7fae11-2b2e-4420-af4f-353b5f43a44d</guid>
+            <pubDate>Thu, 17 Dec 2015 20:53:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Is it too early to be psyched for the Charleston Wine + Food Festival?</p>]]></description>
-            <link>undefinedd7187e63-a652-4bbe-94c4-80acdd5abd82/index.html</link>
+            <link>https://thegrid.ai/jhl/d7187e63-a652-4bbe-94c4-80acdd5abd82/index.html</link>
             <guid isPermaLink="false">d7187e63-a652-4bbe-94c4-80acdd5abd82</guid>
             <pubDate>Thu, 17 Dec 2015 20:51:32 GMT</pubDate>
         </item>
