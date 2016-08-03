@@ -1,20 +1,4 @@
-name: JHL
-favicon: null
-layout_spectrum: 0.9950353784952313
 typography_spectrum: 0.11049696849659085
-title: "You can't take credit for anything - you can only be given credit."
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,23 @@ color:
   lightness: 0.9382651229389012
   saturation: 0.9458646639250219
   rhythmicContrast: 0.9945686385035515
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9950353784952313
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Jack Lavender
+  email: jhlavender@gmail.com
+name: JHL
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: You can't take credit for anything - you can only be given credit.
 purpose: []
